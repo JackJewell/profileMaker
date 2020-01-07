@@ -1,0 +1,27 @@
+{
+  "name": "profileMaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackJewell/profileMaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackJewell/profileMaker/issues"
+  },
+  "homepage": "https://github.com/JackJewell/profileMaker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.2",
+    "pdfkit": "^0.11.0",
+    "request": "^2.88.0"
+  }
+}
